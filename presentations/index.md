@@ -1,6 +1,6 @@
 ---
 title: Presentations
-banner_image: images/anatolia-himalayas-topography.jpg
+banner_image: images/backgrounds/cornwall_cliffs_2.jpg
 banner_position: center
 banner_title: Presentations
 banner_subtitle: Slides, posters, abstracts, and recordings of my presentations

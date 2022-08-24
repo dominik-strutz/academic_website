@@ -1,13 +1,13 @@
 ---
-custom_page_title: Leonardo Uieda
-banner_image: images/valley-of-fire.jpg
-banner_title: 👋🏽 Olá! I'm Leo Uieda
+custom_page_title: Dominik Strutz
+banner_image: images/riegsee_background.jpg
+banner_title: 👋🏽 Grias di! I'm Dominik Strutz
 banner_position: top right
-banner_subtitle: |
-  <span class="nowrap">Geophysicist •</span>
-  <span class="nowrap">Educator •</span>
-  <span class="nowrap">Scientist •</span>
-  <span class="nowrap">Programmer</span>
+# banner_subtitle: |
+#   <span class="nowrap">Geophysicist •</span>
+#   <span class="nowrap">Educator •</span>
+#   <span class="nowrap">Scientist •</span>
+#   <span class="nowrap">Programmer</span>
 template: base.html
 ---
 
@@ -16,28 +16,23 @@ template: base.html
 <div class="row align-items-center justify-content-center gy-3 mb-4">
 <div class="col-sm-8">
 
-### The short version
+###  In short:
 
-* Brazilian geophysicist.
-* Creator of methods for imaging the inside of the Earth from measured
-  disturbances in the planet's gravity and magnetic fields.
-* Open-source software developer: [Fatiando a Terra][fatiando], [Nēnē][nene],
-  [GMT][gmt], and more.
-* Advocate for openness in the scientific process.
-* Leader of the [Computer-Oriented Geoscience Lab][compgeolab].
-* Proud father and amateur baker.
+* Seismolgy PhD Student based in Edinburgh.
+* Locking at ways to set up geophysical experiments in an optimal way to answer a specific question. 
+* Especially interested in everything related to inverse problems and how to tackle them computationaly.
 
 </div>
 <div class="col-9 col-sm-4">
 
-<img src="https://github.com/leouieda.png" alt="Photo of me from 2019" class="headshot mb-4">
+<img src="\images\profile.png" alt="Photo of me from 2021" class="headshot mb-4">
 
 </div>
 </div>
 
 <a class="btn btn-primary mt-3 me-2" href="/about">Longer version <i class="far fa-arrow-alt-circle-right ms-1" aria-hidden="true"></i></a>
 <a class="btn btn-light mt-3 me-2" href="/contact">Contact me <i class="fa fa-envelope ms-1" aria-hidden="true"></i></a>
-<a class="btn btn-outline-light mt-3" href="https://www.compgeolab.org" target="_blank">CompGeoLab <i class="fa fa-external-link-square-alt ms-1" aria-hidden="true"></i></a>
+<!-- <a class="btn btn-outline-light mt-3" href="https://www.compgeolab.org" target="_blank">CompGeoLab <i class="fa fa-external-link-square-alt ms-1" aria-hidden="true"></i></a> -->
 
 
 [deoes]: https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/

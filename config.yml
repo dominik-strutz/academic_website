@@ -1,12 +1,12 @@
 # Main site info
-author: Leonardo Uieda
-url: "https://www.leouieda.com"
-site_name: Leonardo Uieda
-site_description: Geophysicist, scientist, programmer, teacher
-brand: LEONARDO UIEDA
+author: Dominik Strutz
+url: "https://www.dominikstrutz.com"
+site_name: Dominik Strutz
+# site_description:
+brand: DOMINIK STRUTZ
 language: en
 keywords: 'science, geoscience, geophysics, software, open-source'
-repository: leouieda/website
+repository: dominik-strutz/academic_homepage
 repository_branch: main
 favicon: images/favicon.png
 thumbnail: images/thumbnail/default.png
@@ -15,16 +15,13 @@ license_notice: |
   <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a>.
 
 # Social media
-twitter: leouieda
-github: leouieda
-mastodon: leouieda
-mastodon_server: scicomm.xyz
-linkedin: https://www.linkedin.com/in/uieda
-youtube: https://www.youtube.com/LeonardoUieda
-orcid: 0000-0001-6123-9515
-researchgate: https://www.researchgate.net/profile/Leonardo-Uieda
-googlescholar: http://scholar.google.com/citations?user=qfmPrUEAAAAJ
-publons: https://publons.com/a/1328468/
+twitter: DominikStrutz
+github: dominik-strutz
+linkedin: https://www.linkedin.com/in/dominik-strutz-664973144/
+# youtube: https://www.youtube.com/...
+# orcid: 0000-0001-6123-9515
+# researchgate: https://www.researchgate.net/profile/Leonardo-Uieda
+# googlescholar: http://scholar.google.com/citations?user=qfmPrUEAAAAJ
 
 # Menu
 navigation:
@@ -34,14 +31,14 @@ navigation:
     id: about/index
   - name: Blog
     id: blog/index
-  - name: Publications
-    id: publications/index
+  # - name: Publications
+  #   id: publications/index
   - name: Presentations
     id: presentations/index
-  - name: Teaching
-    id: teaching/index
-  - name: Software
-    id: software/index
+  # - name: Teaching
+  #   id: teaching/index
+  # - name: Software
+  #   id: software/index
   - name: Contact
     id: contact/index
 
