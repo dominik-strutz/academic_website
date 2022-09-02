@@ -40,5 +40,5 @@ jobs:
         #   user_email: 'github-actions[bot]@users.noreply.github.com'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: build # The folder the action should deploy.
+          folder: _build # The folder the action should deploy.
 
