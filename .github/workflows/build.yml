@@ -41,7 +41,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@bbdfb200618d235585ad98e965f4aafc39b4c501
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-           external_repository: dominik-strutz/dominik-strutz.github.io
+          external_repository: dominik-strutz/dominik-strutz.github.io
           publish_branch: master
           publish_dir: ./_build
           force_orphan: truE
