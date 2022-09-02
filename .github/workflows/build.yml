@@ -38,9 +38,10 @@ jobs:
         #   force_orphan: true
         #   user_name: 'github-actions[bot]'
         #   user_email: 'github-actions[bot]@users.noreply.github.com'
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: peaceiris/actions-gh-pages@bbdfb200618d235585ad98e965f4aafc39b4c501
         with:
-          external_repository: dominik-strutz/dominik-strutz.github.io
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+           external_repository: dominik-strutz/dominik-strutz.github.io
           publish_branch: master
           publish_dir: ./_build
           force_orphan: truE
