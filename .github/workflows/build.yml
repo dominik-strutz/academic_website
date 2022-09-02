@@ -28,13 +28,17 @@ jobs:
       - name: Push to dominik-strutz.github.io
         if: success() && github.event_name == 'push'
         # Don't use tags: https://julienrenaux.fr/2019/12/20/github-actions-security-risk/
-        uses: peaceiris/actions-gh-pages@v3
+        # uses: peaceiris/actions-gh-pages@v3
+        # with:
+        #   github_token: ${{ secrets.GITHUB_TOKEN }}
+        #   external_repository: dominik-strutz/dominik-strutz.github.io
+        #   publish_branch: master
+        #   publish_dir: ./_build
+        #   # Only keep the latest commit to avoid bloating the repository
+        #   force_orphan: true
+        #   user_name: 'github-actions[bot]'
+        #   user_email: 'github-actions[bot]@users.noreply.github.com'
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: dominik-strutz/dominik-strutz.github.io
-          publish_branch: master
-          publish_dir: ./_build
-          # Only keep the latest commit to avoid bloating the repository
-          force_orphan: true
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
+          folder: build # The folder the action should deploy.
+
