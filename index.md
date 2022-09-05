@@ -1,8 +1,8 @@
 ---
 custom_page_title: Dominik Strutz
-banner_image: images/riegsee_background.jpg
+banner_image: images/backgrounds/riegsee.jpg
 banner_title: 👋🏽 Grias di! I'm Dominik Strutz
-banner_position: top right
+banner_position: middel middel
 # banner_subtitle: |
 #   <span class="nowrap">Geophysicist •</span>
 #   <span class="nowrap">Educator •</span>
@@ -25,7 +25,7 @@ template: base.html
 </div>
 <div class="col-9 col-sm-4">
 
-<img src="\images\profile.png" alt="Photo of me from 2021" class="headshot mb-4">
+<img src="\images\profile.jpeg" alt="Photo of me from 2021" class="headshot mb-4">
 
 </div>
 </div>

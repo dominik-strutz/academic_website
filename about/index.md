@@ -60,18 +60,12 @@ Finally, I want to thank the [SPIN-project][spin] for giving me the unique oppor
 I keep a full length version of my CV updated and publicly available:
 
 <!-- #TODO: Insert CV -->
-<a class="btn btn-primary mb-3" href="..\pdf\Master_Thesis_Dominik_Strutz.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">
+<a class="btn btn-primary mb-3" href="https://dominik-strutz.github.io/cv/dominik_strutz_cv.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">
 <i class="me-1 fa fa-download" aria-hidden="true"></i>
 Download my CV in PDF
 </a>
 
-<!-- <div class="callout mt-3">
 
-**Curious about the CV template?** It's typeset in LaTeX using a custom
-template. The source is available from the GitHub repository
-<a class="nowrap" href="https://github.com/leouieda/cv"><i class="mx-1 fab fa-github" aria-hidden="true"></i><code>leouieda/cv</code></a>.
-
-</div> -->
 
 </section>
 <section class="mb-5">

@@ -1,7 +1,14 @@
----
+    ---
 title: "Manage project dependencies with conda environments"
 date: 2018-12-26
 ---
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Only for testing purposes: Not mine but Leonardo Uiedas blog post
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 > **TL;DR:** Create a conda environment for each project, capture exact versions when
 > possible, automate [activation and updating with a bash function](https://github.com/leouieda/dotfiles/blob/e95f6d951d8ddf6ffa303fdca38ebcf620dc5d6c/.bash/functions.sh#L72).
