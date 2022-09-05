@@ -1,7 +1,7 @@
 ---
 title: Contact
 banner_image: images/backgrounds/riegsee.jpg
-banner_position: top left
+banner_position: middel middel
 banner_title: Contact
 banner_subtitle: How to reach me online and offline
 template: base.html

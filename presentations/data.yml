@@ -3,40 +3,27 @@ thumbnail: images/thumbnail/presentations.png
 presentations:
 
   - title: |
-      Open-science for gravimetry: tools, challenges, and opportunities
-    authors: Uieda, L., Soler, S. R., Pesce, A.
-    year: 2021
-    event: GFZ Helmholtz Centre Potsdam, Germany
+      Bayesian Optimal Experimental Design
+    authors: Strutz, D., Curtis, A.
+    year: 2022
+    event: SPIN Workshop 2
     invited: true
-    github: leouieda/2021-06-22-gfz
-    doi: 10.6084/m9.figshare.14838477
-    recording: z-5dvWfB_SM
-    slides: https://www.leouieda.com/2021-06-22-gfz
-    note: |
-      The slides were made with <a href="https://revealjs.com/">reveal.js</a>
-      using my <a href="https://github.com/leouieda/talk-template">open-source
-      HTML talk template</a>.
+    recording: fViIGwYm2gs
+    # slides: 
     about: |
       <p>
-      This talk is about our recent on the Boule and Harmonica libraries and
-      how they fit into our current and future research plans. It includes a
-      live demo of using these tools to process real ground gravity data.
+      This talk gives a brief introduction to Bayesian optimal experimental design for the other members of the SPIN project.
       </p>
-      <p>
-      It was an invited talk to the geophysical modelling group at GFZ. Thank
-      you to Angela Maria Gomez Garcia for the invitation.
-      </p>
+
+  - title: |
+      Earth's free-oscillation spectrum as a tool to assess mantle circulation models
+    authors: Schuberth, B., Strutz, D., and Schneider, A.
+    year: 2022
+    event: EGU General Assembly 2022
+    invited: false
+    about: |
+      This talk delivered by my MSc supervisor Bernhard Schuberth is based on the work done for my MSc thesis and subsequent further work by Anna Schneider. 
     abstract: |
-      The Fatiando a Terra project is a collection of open-source Python
-      libraries for geophysics which cover a range of functionalities, from
-      data download and processing to modeling and inversion. Many of our tools
-      are general purpose but we also focus on gravimetry and magnetometry.
-      Development on the projected started in 2010 and has gone through several
-      iterations as the team matured and established best practices for
-      maintaining software projects in the open.
-      This talk is an overview of the history and current iteration of the
-      project, including a short demonstration of our current capabilities for
-      downloading and processing gravity data. We will then move on to our
-      plans for future directions of the projects and information of how you
-      can get involved. Finally, we will briefly discuss some of the challenges
-      and opportunities of adopting open-science practices.
+      Geodynamic inverse models that aim at retrodicting past mantle evolution require accurate estimates of its thermodynamic present-day state. Tomographic models are in principle well suited to provide this information. However, a fundamental problem that impacts the quality of the retrodiction arises from their inherently limited resolving power and the fact that the magnitudes of seismic heterogeneity are difficult to constrain owing to the necessity to regularize the inversions (e.g. by norm damping). To get a better understanding of the magnitudes of heterogeneity in the mantle, one option is to predict seismic velocity variations from the temperature field of forward mantle circulation models (MCMs) in combination with thermodynamic models of mantle mineralogy.  Temperature is not a free parameter in these models, but rather constrained by the underlying conservation equations and relevant input parameters. If the geodynamic models are run at earth-like Rayleigh number, temperature variations are expected to feature realistic magnitudes, which, together with the mineralogical mapping, should lead to realistic magnitudes of seismic heterogeneity. This has been investigated in previous studies by computing secondary predictions for the MCMs, such as seismic body wave traveltimes and geoid undulations. A complicating factor, however, is the trade-off between thermal and compositional variations that both may affect the seismic velocities. A further complexity arises from the fact that the elastic velocities of the mineralogical model need to be corrected for the effects of anelasticity, the parameters of which are poorly known.  Thus, a range of seismic velocity values may still be possible for a given temperature. 
+
+      Here, we explore the possibility to use Earth's normal mode spectrum to narrow the range of plausible magnitudes of seismic heterogeneity in the mantle. To this end, we compute free-oscillation spectra with full coupling of modes below 3.5 mHz in our geodynamic models.  In our analysis, we consider different measures to investigate whether the normal mode data may provide complementary information to earlier assessments of MCMs based on body waves. In addition to the direct misfit between spectra of real and synthetic data, the variance of a large number of stacked multiplets can be used to constrain the even degree covariance of lateral heterogeneity under certain assumptions. Using different realizations of seismic MCM structure that differ in terms of the anelastic temperature to velocity mapping, we will analyse the potential of normal mode data to put tighter constraints on the magnitudes of heterogeneity.
