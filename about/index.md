@@ -1,6 +1,6 @@
 ---
 title: About
-banner_image: images/backgrounds/cornwall_cliffs_1.svg
+banner_image: images/backgrounds/cornwall_cliffs_1.jpg
 banner_position: center center
 banner_title: About me
 banner_subtitle: A bit more about me and my work
