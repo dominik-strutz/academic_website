@@ -3,10 +3,23 @@ thumbnail: images/thumbnail/presentations.png
 presentations:
 
   - title: |
-      Bayesian Optimal Experimental Design
-    authors: Strutz, D., Curtis, A.
+      Variational Optimal Experimental Design
+    authors: Strutz, D. and Curtis, A.
     year: 2022
-    event: SPIN Workshop 2
+    event: Edinburgh Imaging Project Partners Meeting
+    invited: true
+    # slides: 
+    about: |
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZHSNIKmnrhNNu4J-y-MPpE_XTmztuesV_8IM4waqVj3bcvE-6j3u_jutZwsGeRg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+      [Download Link](https://docs.google.com/presentation/d/1N1WP_zix3HUgEk6-vrZSJY92o9ksSfI7/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true)
+      
+      
+  - title: |
+      Bayesian Optimal Experimental Design
+    authors: Strutz, D. and Curtis, A.
+    year: 2022
+    event: SPIN Workshop 2, Carcans
     invited: true
     recording: fViIGwYm2gs
     # slides: 
@@ -14,6 +27,11 @@ presentations:
       <p>
       This talk gives a brief introduction to Bayesian optimal experimental design for the other members of the SPIN project.
       </p>
+
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3cynPkH8vLOTRMybULJZ6RaDUfkgKQ1CcxNXTmRTgu7zJMI6gBkafqJKf8o2HdA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+      
+      
+      [Download Link](https://docs.google.com/presentation/d/1KXP12ICUDnDIv_jEN9XOUQ1aeyR7phrp/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true)
 
   - title: |
       Earth's free-oscillation spectrum as a tool to assess mantle circulation models
@@ -27,3 +45,16 @@ presentations:
       Geodynamic inverse models that aim at retrodicting past mantle evolution require accurate estimates of its thermodynamic present-day state. Tomographic models are in principle well suited to provide this information. However, a fundamental problem that impacts the quality of the retrodiction arises from their inherently limited resolving power and the fact that the magnitudes of seismic heterogeneity are difficult to constrain owing to the necessity to regularize the inversions (e.g. by norm damping). To get a better understanding of the magnitudes of heterogeneity in the mantle, one option is to predict seismic velocity variations from the temperature field of forward mantle circulation models (MCMs) in combination with thermodynamic models of mantle mineralogy.  Temperature is not a free parameter in these models, but rather constrained by the underlying conservation equations and relevant input parameters. If the geodynamic models are run at earth-like Rayleigh number, temperature variations are expected to feature realistic magnitudes, which, together with the mineralogical mapping, should lead to realistic magnitudes of seismic heterogeneity. This has been investigated in previous studies by computing secondary predictions for the MCMs, such as seismic body wave traveltimes and geoid undulations. A complicating factor, however, is the trade-off between thermal and compositional variations that both may affect the seismic velocities. A further complexity arises from the fact that the elastic velocities of the mineralogical model need to be corrected for the effects of anelasticity, the parameters of which are poorly known.  Thus, a range of seismic velocity values may still be possible for a given temperature. 
 
       Here, we explore the possibility to use Earth's normal mode spectrum to narrow the range of plausible magnitudes of seismic heterogeneity in the mantle. To this end, we compute free-oscillation spectra with full coupling of modes below 3.5 mHz in our geodynamic models.  In our analysis, we consider different measures to investigate whether the normal mode data may provide complementary information to earlier assessments of MCMs based on body waves. In addition to the direct misfit between spectra of real and synthetic data, the variance of a large number of stacked multiplets can be used to constrain the even degree covariance of lateral heterogeneity under certain assumptions. Using different realizations of seismic MCM structure that differ in terms of the anelastic temperature to velocity mapping, we will analyse the potential of normal mode data to put tighter constraints on the magnitudes of heterogeneity.
+
+
+  - title: |
+      Optimal Design of Experiments and Surveys for Scientific Interrogation
+    authors: Strutz, D. and Curtis, A.
+    year: 2021
+    event: Edinburgh Imaging Project Partners Meeting
+    invited: true
+    # slides: 
+    about: |
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQmjdDqZqZTf5s3O5mGoGYfnerUHpFUPsAncnKsnH_FC-KfcVpPreXMMN6pzA3QCw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+      [Download Link](https://docs.google.com/presentation/d/1DXWK7R-elop90KgH1EzD_5lltCE7ZCNs/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true)
