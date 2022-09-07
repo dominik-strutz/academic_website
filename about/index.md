@@ -104,9 +104,11 @@ Download my CV in PDF
 <!-- {{ macros.button_link("https://doi.org/" ~ item.doi, "PDF", type="btn-primary", icon="fa fa-file-pdf") }} -->
 <!-- {{ macros.button_link("https://github.com/" ~ item.github, "Code", type="btn-light", icon="fab fa-github") }} -->
 {{ macros.button_link(item.slides, "Slides", type="btn-light", icon="fa fa-desktop") }}
+
 <div id="collapse-abstract-{{ id }}" class="collapse paper-info mt-2 overflow-hidden">
-  <!-- <h3 class="">About</h3>
-  {{ item.notes }} -->
+{%- if item.about is defined %}
+    {{ item.about|trim }}
+{%- endif %}
   <h3 class="">Abstract</h3>
   <p>{{ item.abstract|trim }}</p>
 </div>

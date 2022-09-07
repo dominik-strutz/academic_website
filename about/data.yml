@@ -10,8 +10,11 @@ education:
     github: 
     doi: 
     year: 2021
-    slides: ..\pdf\Master_Thesis_Dominik_Strutz.pdf
-    notes:
+    slides:
+    about: |
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSW-MU5dEAjGlUJjGskijWZIOLm9SxvfLJ0SyKu_WI4hGDbQuodwzqsZcsqs0clm8LkWmovmPb_GuTF/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+      [Download Link](https://docs.google.com/presentation/d/1EXzxWIuK--KB99i174tN7UxEaYn2lNGUsXxCOah89x0/edit?usp=sharing)
     abstract: |
       Mantle convection models (MCM) are essential for understanding the dynamic processes governing the flow of viscous mantle material. The direct influence of this movement on plate tectonics and the global heat budget is of high importance for many related fields of geophysics. Normal modes provide a complementary dataset to earlier assessments of MCMs based on body waves. The direct misfit between spectra of real data and predictions from mantle convection models was calculated. It can be shown that for overtones that roughly probe the whole mantle, MCMs show lower misfit than the spherical symmetric reference model PREM. Fundamental modes with their sensitivity towards shallow structures do not show the same reduction of the misfit. The L2 norm used as a misfit function has been tested in the context of normal mode comparisons. While the L1 showed slightly better performance, both the L1 and L2 norm are well suited for comparing spectra. Other methods based on optimal transport could not show improvements in this regard. Under certain assumptions, the variance of a large number of stacked multiplets can be used to constrain the even degree covariance of lateral heterogeneity. This has been applied to different MCMs as well as the tomographic model S20RTS. It can be shown that the method is well suited for these comparisons and has much potential for future studies. Both measurements display a clear distinction between MCMs based on different assumptions. Models with the same past plate motion and viscosity structure follow the same trend for fundamental modes and models based on identical composition for overtone modes. Normal modes can therefore be used to differentiate between these effects. Overall isochemical (thermal) models show lower misfit and variance difference than models with a dense component in the lower mantle (thermochemical). As suggested by previous studies, thermochemical models seem to overestimate the amount of lateral heterogeneity. The results also suggest that the magnitude of heterogeneity in S20RTS may be underestimated in the lower mantle.
 
@@ -23,7 +26,6 @@ education:
     github:
     doi:
     year: 2019
-    slides: ..\pdf\Bachelor_Thesis_Dominik_Strutz.pdf
     notes:
     abstract: |
       The behavior of normal modes in a geodynamic model is examined using the MantleConvection-Model by [Schuberth et al. 2009b], building upon the results of [Noe 2018]. The spectras were computed using the Iterative Direct Solution Method (IDSM) by [AlAttar et al. 2012], making use of its full coupling capabilities. Self-coupling or groupcoupling approximations are not exact enough, making it necessary to couple all modes used ([Aki and P. Richards 2002], [Deuss and J. H. Woodhouse 2001]). At first, the effects of scaling perturbations globally was examined. The relative deviations from PREM [Dziewonski and Anderson 1981] given by the MCM were scaled either as a whole or independently. Modes, where clear splitting can be seen, were analyzed in detail. In the second part of the thesis, the global distribution of kinetic energy through free oscillations is examined. Especially the changes caused by perturbations from spherical symmetry were examined. The most important result here was clear pattern of energy along the great circles connecting the source and the antipode. This pattern is weaker for heterogeneous models but still dominant. The same pattern also complicates analyzing the similarity of spectras globally. The similarity was quantified using the relative spectral misfit defined by [Akbarashrafi et al. 2017]. Using stacking or other techniques, this criteria may still be useful in comparing mantle/earth models.
