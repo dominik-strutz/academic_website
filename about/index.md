@@ -103,7 +103,9 @@ Download my CV in PDF
 </button>
 <!-- {{ macros.button_link("https://doi.org/" ~ item.doi, "PDF", type="btn-primary", icon="fa fa-file-pdf") }} -->
 <!-- {{ macros.button_link("https://github.com/" ~ item.github, "Code", type="btn-light", icon="fab fa-github") }} -->
-{{ macros.button_link(item.slides, "Slides", type="btn-light", icon="fa fa-desktop") }}
+{%- if item.slides is defined %}
+  {{ macros.button_link(item.slides, "Slides", type="btn-light", icon="fa fa-desktop") }}
+{%- endif %}
 
 <div id="collapse-abstract-{{ id }}" class="collapse paper-info mt-2 overflow-hidden">
 {%- if item.about is defined %}
