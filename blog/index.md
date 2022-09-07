@@ -1,7 +1,7 @@
 ---
 title: Blog
 banner_image: images/backgrounds/skye.jpg
-banner_position: top left
+banner_position: middle left
 banner_title: Blog
 banner_subtitle: Random thoughts, opinions, updates, and tutorials.
 template: blog-index.html

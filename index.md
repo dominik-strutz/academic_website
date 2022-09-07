@@ -16,7 +16,7 @@ template: base.html
 
 <h2 class="mb-5 text-center">A bit about me</h2>
 
-<div class="row align-items-center justify-content-center gy-3 mb-4">
+<div class="row align-items-center justify-content-center gy-3 mb-4">   
 <div class="col-sm-8">
 
 ###  In short:
