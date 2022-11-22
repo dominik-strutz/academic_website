@@ -101,8 +101,8 @@
         {%- set banner_position = "top center" %}
       {%- endif %}
       <div class="banner-background" style="background-image: url(/{{ page.banner_image }}); background-position: {{ banner_position }};">
-        <div class="overlay">
-        </div>
+        <!-- <div class="overlay"> # causes a small dots to be on image and make it darker
+        </div> -->
         <section class="container text-center banner">
           {%- if page.banner_title is defined %}
             <h1 class="display-3">
@@ -171,7 +171,7 @@
         {%- endif %}
       </p>
       <p>
-        Built with <a href="https://nene.leouieda.com">Nēnē</a> {{ build.nene_version }}
+        Built with the fantasic <a href="https://nene.leouieda.com">Nēnē</a> {{ build.nene_version }}
         from source code at
         <a href="https://github.com/{{ config.repository }}"><code>{{ config.repository }}</code></a>
         (<a href="https://github.com/{{ config.repository }}/commit/{{ build.commit }}"><code>{{ build.commit }}</code></a>).
