@@ -2,7 +2,7 @@
 
 [![build-html](https://github.com/leouieda/website/workflows/build-html/badge.svg?event=push)](https://github.com/leouieda/website/actions?query=workflow%3Abuild-html)
 
-This is the source code for my personal site [dominik-strutz.github.io](http://dominik-strutz.github.io). It is based on the webpage of [Leonardo Uieda](https://github.com/leouieda/website) 
+This is the source code for my website [dominik-strutz.github.io](http://dominik-strutz.github.io). It is based on the webpage of [Leonardo Uieda](https://github.com/leouieda/website) 
 
 ## License
 
