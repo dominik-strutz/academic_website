@@ -21,7 +21,7 @@ While based on a straightforward theoretical framework, solving this problem in 
 
 After finding these methods, I will focus my research on how to design experiments to answer specific questions such as: "What's the size of a certain subsurface body?" or "Is the source of micro-seismicity moving upwards?" 
 
-All of the methods I plan on using extensively use concepts from statistics and machine learning, and I am very excited to learn more about those to complement my geophysics background.
+All of the methods I plan on using concepts from statistics and machine learning extensively, and I am very excited to learn more about those to complement my geophysics background.
 
 Finally, I want to thank the [SPIN-project][spin] for giving me the unique opportunity to work on this project as part of a Marie Skłodowska-Curie Actions EU grant. 
 

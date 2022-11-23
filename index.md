@@ -22,7 +22,7 @@ template: base.html
 ###  In short:
 
 * Seismolgy PhD Student based in Edinburgh.
-* Locking at ways to set up geophysical experiments in an optimal way to answer a specific question. 
+* Looking at ways to set up geophysical experiments in an optimal way to answer a specific question. 
 * Especially interested in everything related to inverse problems and how to tackle them computationaly.
 
 </div>
