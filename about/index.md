@@ -13,10 +13,15 @@ template: base.html
 
 ## The slightly longer version
 My passion for the planet beneath our feet brought me to geophysics. The combination of classical mechanics, fascinating geological processes and high-performance computing applied to usually inaccessible structures is what keeps me fascinated to this day. Exactly this inaccessibility makes inverse problems - converting data to models of the subsurface - so vital to geophysics. Any optimization in this process will lead to a better understanding of the world around us.
+  
 Most of the time, data is taken as given in inverse problems. In my project, I take a step back and investigate how much the design of an experiment can influence the expected results. The next step is how to choose an experiment that is most likely optimal in the sense of giving the most information about the subsurface given a typical dataset.
+  
 While based on a straightforward theoretical framework, solving this problem in practice is computationally very expensive, if not infeasible, even for small-scale experiments. My work over the following years will mainly focus on finding approximations that allow designing extensive surveys of one or several sensor types optimally.
+  
 After finding these methods, I will focus my research on designing experiments to answer specific questions such as: “What’s the size of a certain subsurface body?” or “Is the source of micro-seismicity moving upwards?”
+  
 All of the methods I plan on using extensively incorporate statistics and machine learning concepts. I am very excited to learn more about these to complement my geophysics background.
+  
 Finally, I want to thank the SPIN-project for giving me the unique opportunity to work on this project as part of a Marie Skłodowska-Curie Actions EU grant.
 
 <!-- {{ figure("../images/teaching-git-at-agu2019.jpg", 'Me teaching git and GitHub at <a href="https://github.com/agu-ossi/2019-agu-oss">AGU2019</a>.', class="mt-4") }} -->
