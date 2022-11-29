@@ -20,6 +20,9 @@ These are best ways to reach me online:
   <li><i class="fa-li fab fa-twitter fa-fw" aria-hidden="true"></i>
   <a href="https://twitter.com/DominikStrutz">@{{ config.twitter }}</a> on Twitter
   </li>
+   <li><i class="fa-li fab fa-github fa-fw" aria-hidden="true"></i>
+  <a href="https://github.com/dominik-strutz">@{{ config.twitter }}</a> on Twitter
+  </li> 
 </ul>
 
 </section>
