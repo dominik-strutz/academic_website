@@ -37,8 +37,8 @@ navigation:
     id: presentations/index
   # - name: Teaching
   #   id: teaching/index
-  # - name: Software
-  #   id: software/index
+  - name: Software
+    id: software/index
   - name: Contact
     id: contact/index
 
