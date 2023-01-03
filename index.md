@@ -28,7 +28,7 @@ template: base.html
 </div>
 <div class="col-9 col-sm-4">
 
-<img src="\images\profile.jpeg" alt="Photo of me from 2021" class="headshot mb-4">
+<img src="\images\profile.png" alt="Photo of me from 2022" class="headshot mb-4">
 
 </div>
 </div>
