@@ -2,7 +2,7 @@
 custom_page_title: Dominik Strutz
 banner_image: images/backgrounds/riegsee.jpg
 banner_title: 👋🏽 Grias di! I'm Dominik Strutz
-banner_position: middel middel
+banner_position: bottom
 banner_subtitle: |
     <span> &#8203; </span>
 #   weird character necessary to simulate subtitle 
