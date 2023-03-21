@@ -3,30 +3,34 @@ thumbnail: images/thumbnail/presentations.png
 presentations:
 
   - title: |
+      Variational Optimal Survey Design
+    authors: Strutz, D. and Curtis, A.
+    year: 2022
+    event: Edinburgh Imaging Project Partners Meeting
+    invited: true
+    slides: https://docs.google.com/presentation/d/1mxEy_dZ73GJeYhFlpTCkQkNnOdnCsxqT/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
+    about: |
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQqVn_43K_b3UgmQ9kIYffQ5Hd3magtfVUOqyCmolef4-3UihfSmMsk5mNQlT9JA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="800" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+  - title: |
       Bayesian Optimal Experimental Design for Geophysical Applications
     authors: Strutz, D. and Curtis, A.
     year: 2022
     event: IPGP Seismology Seminars
     invited: true
-    # slides: 
+    slides: https://docs.google.com/presentation/d/1VjZneLoE2jHL9IbGE5wWlmO4oefx9o9_/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
     about: |
       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ1mhtNr7mkraWBHwD10YZklPZl0G89d3POWqwLSS2fEnCcukOkRVPSDpSZhXN79w/embed?start=false&loop=false&delayms=60000" frameborder="0" width="800" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       
-      [Download Slides](https://docs.google.com/presentation/d/1VjZneLoE2jHL9IbGE5wWlmO4oefx9o9_/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true)
-
-
   - title: |
       Variational Optimal Experimental Design
     authors: Strutz, D. and Curtis, A.
     year: 2022
     event: Edinburgh Imaging Project Partners Meeting
     invited: true
-    # slides: 
+    slides: https://docs.google.com/presentation/d/1N1WP_zix3HUgEk6-vrZSJY92o9ksSfI7/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
     about: |
       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSZHSNIKmnrhNNu4J-y-MPpE_XTmztuesV_8IM4waqVj3bcvE-6j3u_jutZwsGeRg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="800" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-      [Download Slides](https://docs.google.com/presentation/d/1N1WP_zix3HUgEk6-vrZSJY92o9ksSfI7/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true)
-      
       
   - title: |
       Bayesian Optimal Experimental Design
@@ -35,7 +39,7 @@ presentations:
     event: SPIN Workshop 2, Carcans
     invited: true
     recording: fViIGwYm2gs
-    # slides: 
+    slides: https://docs.google.com/presentation/d/1KXP12ICUDnDIv_jEN9XOUQ1aeyR7phrp/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
     about: |
       <p>
       This talk gives a brief introduction to Bayesian optimal experimental design for the other members of the SPIN project.
@@ -43,9 +47,6 @@ presentations:
 
       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3cynPkH8vLOTRMybULJZ6RaDUfkgKQ1CcxNXTmRTgu7zJMI6gBkafqJKf8o2HdA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="800" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
       
-      
-      [Download Slides](https://docs.google.com/presentation/d/1KXP12ICUDnDIv_jEN9XOUQ1aeyR7phrp/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true)
-
   - title: |
       Earth's free-oscillation spectrum as a tool to assess mantle circulation models
     authors: Schuberth, B., Strutz, D., and Schneider, A.
@@ -66,8 +67,6 @@ presentations:
     year: 2021
     event: Edinburgh Imaging Project Partners Meeting
     invited: true
-    # slides: 
+    slides: https://docs.google.com/presentation/d/1DXWK7R-elop90KgH1EzD_5lltCE7ZCNs/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
     about: |
       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQmjdDqZqZTf5s3O5mGoGYfnerUHpFUPsAncnKsnH_FC-KfcVpPreXMMN6pzA3QCw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="800" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-      [Download Slides](https://docs.google.com/presentation/d/1DXWK7R-elop90KgH1EzD_5lltCE7ZCNs/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true)
