@@ -3,6 +3,16 @@ thumbnail: images/thumbnail/presentations.png
 presentations:
 
   - title: |
+      Experimental Design for Interrogation Problems
+    authors: Strutz, D. and Curtis, A.
+    year: 2023
+    event: SPIN Workshop 3, Pitlochry 
+    invited: true
+    slides: https://docs.google.com/presentation/d/1QcM7GTVSIgJtuveikTFU06tPO5CztWc9/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
+    about: | 
+      <div class="google-slides-container"> <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8I1gVHRl-OHtbM9raG3OIUQIa_Lm1ectKE7xglx8SqojT4qwFCkbpyU0SnLVSeA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </div>
+
+  - title: |
       Variational Optimal Survey Design
     authors: Strutz, D. and Curtis, A.
     year: 2022
