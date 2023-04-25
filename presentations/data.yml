@@ -3,11 +3,26 @@ thumbnail: images/thumbnail/presentations.png
 presentations:
 
   - title: |
+      Variational Experimental Design Methods for Geophysical Applications
+    authors: Strutz, D. and Curtis, A.
+    year: 2023
+    event: EGU General Assembly 2023
+    slides: https://docs.google.com/presentation/d/1fdQ3LmECp9v8P39c8dtLDmMYC9_B6SXS/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
+    about: | 
+      <div class="google-slides-container"> <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTODdnLBhC_wZE7-VCCZFQnaQJaU-GhqddIwXRoY1skN-yksmkyDqPM8GA-8LduCw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </div>
+      
+    abstract: |
+      The design of geophysical surveys or experiments (henceforth, the experimental design) significantly influences the uncertainty in scientific results that can be inferred from recorded data. Typical aspects of experimental designs that can be varied are locations of sensors, sensor types, and the modelling or data processing methods to be applied to recorded data. To tighten constraints on the solution to any inverse or inference problem, and thus to rule out as many false possibilities as possible, the design should be optimised such that it is practically achievable within cost and logistical constraints, and such that it maximises expected post-experimental information about the solution. 
+      Bayesian experimental design refers to a class of methods that use uncertainty estimation methods to quantify the expected gain in information about target parameters provided by an experiment, and to optimise the design of the experiment to maximise that gain. Information gain quantifies the decrease in uncertainty caused by observing data. Expected information gain is an estimate of the gain in information that will be offered by any particular design post-experiment. Bayesian experimental design methods vary the design so as to maximise the expected information gain, subject to practical constraints. 
+      We introduce variational experimental design methods that are novel to geophysics, and discuss their benefits and limitations in the context of geophysical applications. The family of variational methods relies on functional approximations of probability distributions, and in some cases, of the model-data relationships. They can be used to design experiments that best resolve either all model parameters, or the answer to a specific question about the system studied. Their potential advantage over some other design methods is that finding the functional approximations used by variational methods tends to rely more on optimisation theory than the more common stochastic uncertainty analysis used to approximate Bayesian uncertainties. This allows the wealth of understanding of optimisation methods to be applied to the full Bayesian design problem. 
+      Variational design methods are demonstrated by optimising the design of an experiment consisting of seismometer locations on the Earth's surface, so as to best estimate seismic source parameters given arrival time data obtained at seismometers. By designing separate experiments to constrain the hypocentres and epicentres of events, we show that optimal designs may change substantially depending on which questions about the subsurface we wish the experiment to help us to answer. 
+      By accounting for differing expected uncertainties in travel time picks depending on the picking method used, we demonstrate that the data processing method can be optimised as part of the design process, provided that expected uncertainties are available from each method.
+
+  - title: |
       Experimental Design for Interrogation Problems
     authors: Strutz, D. and Curtis, A.
     year: 2023
     event: SPIN Workshop 3, Pitlochry 
-    invited: true
     slides: https://docs.google.com/presentation/d/1QcM7GTVSIgJtuveikTFU06tPO5CztWc9/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
     about: | 
       <div class="google-slides-container"> <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8I1gVHRl-OHtbM9raG3OIUQIa_Lm1ectKE7xglx8SqojT4qwFCkbpyU0SnLVSeA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </div>
@@ -47,7 +62,6 @@ presentations:
     authors: Strutz, D. and Curtis, A.
     year: 2022
     event: SPIN Workshop 2, Carcans
-    invited: true
     recording: fViIGwYm2gs
     slides: https://docs.google.com/presentation/d/1KXP12ICUDnDIv_jEN9XOUQ1aeyR7phrp/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
     about: |
