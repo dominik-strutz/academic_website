@@ -6,7 +6,7 @@ site_name: Dominik Strutz
 brand: DOMINIK STRUTZ
 language: en
 keywords: 'science, geoscience, geophysics, software, open-source'
-repository: dominik-strutz/academic_homepage
+repository: dominik-strutz/academic_website
 repository_branch: main
 favicon: images/favicon.png
 thumbnail: images/thumbnail/default.png
