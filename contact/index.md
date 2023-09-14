@@ -17,9 +17,9 @@ These are best ways to reach me online:
   <li><i class="fa-li fa fa-envelope fa-fw" aria-hidden="true"></i>
   <a href="mailto:dominik.strutz@ed.ac.uk">dominik.strutz@ed.ac.uk</a>
   </li>
-  <li><i class="fa-li fab fa-twitter fa-fw" aria-hidden="true"></i>
+  <!-- <li><i class="fa-li fab fa-twitter fa-fw" aria-hidden="true"></i>
   <a href="https://twitter.com/DominikStrutz">@{{ config.twitter }}</a> on Twitter
-  </li>
+  </li> -->
    <li><i class="fa-li fab fa-github fa-fw" aria-hidden="true"></i>
   <a href="https://github.com/dominik-strutz">@{{ config.github }}</a> on Github
   </li> 

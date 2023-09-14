@@ -148,9 +148,9 @@
           <!-- The rel="me" attribute verifies for Mastodon that I own this domain -->
           <!-- <a rel="me" aria-label="Mastodon" href="https://{{ config.mastodon_server }}/@{{ config.mastodon }}" target="_blank"><i class="fab fa-mastodon fa-lg me-2" title="Mastodon" aria-hidden="true"></i></a>
         </li> -->
-        <li class="list-inline-item">
+        <!-- <li class="list-inline-item">
           <a aria-label="Twitter" href="https://twitter.com/{{ config.twitter }}" target="_blank"><i class="fab fa-twitter fa-lg me-2" title="Twitter" aria-hidden="true"></i></a>
-        </li>
+        </li> -->
         <li class="list-inline-item">
           <a aria-label="GitHub" href="https://github.com/{{ config.github }}" target="_blank"><i class="fab fa-github fa-lg me-2" title="GitHub" aria-hidden="true"></i></a>
         </li>
@@ -171,7 +171,7 @@
         {%- endif %}
       </p>
       <p>
-        Built with the fantasic <a href="https://nene.leouieda.com">Nēnē</a> {{ build.nene_version }}
+        Built with the fantasic <a href="https://nene.leouieda.com">Nēnē</a> {{ build.nene_version }} by Leonardo Uidea
         from source code at
         <a href="https://github.com/{{ config.repository }}"><code>{{ config.repository }}</code></a>
         (<a href="https://github.com/{{ config.repository }}/commit/{{ build.commit }}"><code>{{ build.commit }}</code></a>).
