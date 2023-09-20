@@ -2,6 +2,25 @@ thumbnail: images/thumbnail/presentations.png
 
 presentations:
 
+- title: |
+      Variational Bayesian Experimental Design for Geophysical Application
+    authors: Strutz, D. and Curtis, A.
+    year: 2023
+    event: ETH EEG Groupmeeting
+    slides: https://docs.google.com/presentation/d/10CbtuiNhGiutxlk0XpAtX4cyRlSu47NO/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
+    about: | 
+       <div class="google-slides-container"> <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXn_MgW-e8TT2wh758w9erB9zJoMiZ1_cT98J6B5T_2UIgUTFPnrsjjUA58nNzjA/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </div>
+
+
+- title: |
+      Variational Bayesian Experimental Design for Geophysical Application
+    authors: Strutz, D. and Curtis, A.
+    year: 2023
+    event: Machine Learning in Geophysics UK Conference
+    slides: https://docs.google.com/presentation/d/1-m-VT_iuDOMU0ARKuQ0IFTtmwNDcnFKF/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
+    about: | 
+       <div class="google-slides-container"> <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmG1Y30qlSFsUvqrHq4kvJk3-kVmMZQRCePMUD6QvNs_45VaFmt8v1eLpc16ze1g/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </div>
+
   - title: |
       Variational Experimental Design Methods for Geophysical Applications
     authors: Strutz, D. and Curtis, A.
