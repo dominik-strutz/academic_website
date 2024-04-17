@@ -31,8 +31,8 @@ navigation:
     id: about/index
   - name: Blog
     id: blog/index
-  # - name: Publications
-  #   id: publications/index
+  - name: Publications
+    id: publications/index
   - name: Presentations
     id: presentations/index
   # - name: Teaching

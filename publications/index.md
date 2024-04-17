@@ -1,6 +1,6 @@
 ---
 title: Publications
-banner_image: images/arctic-bathymetry.jpg
+banner_image: images/thumbnail/presentations.png
 banner_position: top left
 banner_title: Publications
 banner_subtitle: A full list of all of my academic publications
@@ -15,12 +15,6 @@ template: base.html
 For citation information, see
 [Google Scholar]({{ config.googlescholar }})
 and [Publons]({{ config.publons }}).
-A more complete list of my work can be found on
-[ORCID](https://orcid.org/{{ config.orcid }})
-• {{ config.orcid }}
-
-Find out more about my research at the
-[Computer-Oriented Geoscience Lab](https://www.compgeolab.org/).
 
 </div>
 
