@@ -1,29 +1,29 @@
 thumbnail: images/thumbnail/presentations.png
 
-publications:
+papers:
 
-- title: |
-    Variational Bayesian experimental design for geophysical applications: seismic source location, amplitude versus offset inversion, and estimating CO2 saturations in a subsurface reservoir
-  year: 2024
-  doi: 10.1093/gji/ggad492
-  journal: Geophysical Journal International
-  preprint: 10.48550/arXiv.2307.01039
-  github: https://github.com/dominik-strutz/2023_02_GJI_GeophysicalBED
-  abstract: |
-    In geophysical surveys or experiments, recorded data are used to constrain properties of the planetary subsurface, oceans, atmosphere or cryosphere. How the experimental data are collected significantly influences which parameters can be resolved and how much confidence can be placed in the results. Bayesian experimental design methods characterize, quantify and maximize expected information post-experimentâ€”an optimization problem. Typical design parameters that can be optimized are source and/or sensor types and locations, and the choice of modelling or data processing methods to be applied to the data. These may all be optimized subject to various physical and cost constraints. This paper introduces variational design methods, and discusses their benefits and limitations in the context of geophysical applications. Variational methods have recently come to prominence due to their importance in machine-learning applications. They can be used to design experiments that best resolve either all model parameters, or the answer to specific questions about the system to be interrogated. The methods are tested in three schematic geophysical applications: (i) estimating a source location given arrival times of radiating energy at sensor locations, (ii) estimating the contrast in seismic velocity across a stratal interface given measurements of the amplitudes of seismic wavefield reflections from that interface, and (iii) designing a survey to best constrain CO2 saturation in a subsurface storage scenario. Variational methods allow the value of expected information from an experiment to be calculated and optimized simultaneously, which results in substantial savings in computational cost. In the context of designing a survey to best constrain CO2 saturation in a subsurface storage scenario, we show that optimal designs may change substantially depending on the particular questions of interest. We also show that one method, so-called DN design, can be effective at substantially lower computational cost than other methods. Overall, this work demonstrates that optimal design methods could be used more widely in Geophysics, as they are in other scientifically advanced fields.
-  citation: |
-    Dominik Strutz, Andrew Curtis, Variational Bayesian experimental design for geophysical applications: seismic source location, amplitude versus offset inversion, and estimating CO2 saturations in a subsurface reservoir, Geophysical Journal International, Volume 236, Issue 3, March 2024, Pages 1309–1331, https://doi.org/10.1093/gji/ggad492
-  bibtex: |
-    @article{10.1093/gji/ggad492,
-      author = {Strutz, Dominik and Curtis, Andrew},
-      title = "{Variational Bayesian experimental design for geophysical applications: seismic source location, amplitude versus offset inversion, and estimating CO2 saturations in a subsurface reservoir}",
-      journal = {Geophysical Journal International},
-      volume = {236},
-      number = {3},
-      pages = {1309-1331},
-      year = {2023},
-      month = {12},
-      issn = {0956-540X},
-      doi = {10.1093/gji/ggad492},
-      url = {https://doi.org/10.1093/gji/ggad492},
-    }
+  - title: |
+      Variational Bayesian experimental design for geophysical applications: seismic source location, amplitude versus offset inversion, and estimating CO2 saturations in a subsurface reservoir
+    year: 2024
+    doi: 10.1093/gji/ggad492
+    journal: Geophysical Journal International
+    preprint: 10.48550/arXiv.2307.01039
+    github: https://github.com/dominik-strutz/2023_02_GJI_GeophysicalBED
+    abstract: |
+      In geophysical surveys or experiments, recorded data are used to constrain properties of the planetary subsurface, oceans, atmosphere or cryosphere. How the experimental data are collected significantly influences which parameters can be resolved and how much confidence can be placed in the results. Bayesian experimental design methods characterize, quantify and maximize expected information post-experimentâ€”an optimization problem. Typical design parameters that can be optimized are source and/or sensor types and locations, and the choice of modelling or data processing methods to be applied to the data. These may all be optimized subject to various physical and cost constraints. This paper introduces variational design methods, and discusses their benefits and limitations in the context of geophysical applications. Variational methods have recently come to prominence due to their importance in machine-learning applications. They can be used to design experiments that best resolve either all model parameters, or the answer to specific questions about the system to be interrogated. The methods are tested in three schematic geophysical applications: (i) estimating a source location given arrival times of radiating energy at sensor locations, (ii) estimating the contrast in seismic velocity across a stratal interface given measurements of the amplitudes of seismic wavefield reflections from that interface, and (iii) designing a survey to best constrain CO2 saturation in a subsurface storage scenario. Variational methods allow the value of expected information from an experiment to be calculated and optimized simultaneously, which results in substantial savings in computational cost. In the context of designing a survey to best constrain CO2 saturation in a subsurface storage scenario, we show that optimal designs may change substantially depending on the particular questions of interest. We also show that one method, so-called DN design, can be effective at substantially lower computational cost than other methods. Overall, this work demonstrates that optimal design methods could be used more widely in Geophysics, as they are in other scientifically advanced fields.
+    citation: |
+      Dominik Strutz, Andrew Curtis, Variational Bayesian experimental design for geophysical applications: seismic source location, amplitude versus offset inversion, and estimating CO2 saturations in a subsurface reservoir, Geophysical Journal International, Volume 236, Issue 3, March 2024, Pages 1309–1331, https://doi.org/10.1093/gji/ggad492
+    bibtex: |
+      @article{10.1093/gji/ggad492,
+        author = {Strutz, Dominik and Curtis, Andrew},
+        title = "{Variational Bayesian experimental design for geophysical applications: seismic source location, amplitude versus offset inversion, and estimating CO2 saturations in a subsurface reservoir}",
+        journal = {Geophysical Journal International},
+        volume = {236},
+        number = {3},
+        pages = {1309-1331},
+        year = {2023},
+        month = {12},
+        issn = {0956-540X},
+        doi = {10.1093/gji/ggad492},
+        url = {https://doi.org/10.1093/gji/ggad492},
+      }

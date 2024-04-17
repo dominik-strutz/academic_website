@@ -13,8 +13,7 @@ template: base.html
 <div class="callout callout-note mb-5">
 
 For citation information, see
-[Google Scholar]({{ config.googlescholar }})
-and [Publons]({{ config.publons }}).
+[Google Scholar]({{ config.googlescholar }}).
 
 </div>
 
