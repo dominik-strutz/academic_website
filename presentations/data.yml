@@ -1,6 +1,27 @@
 thumbnail: images/thumbnail/presentations.png
 
 presentations:
+  - title: |
+      Experimental Design for Seismic Monitoring - Optimal nodal arrays and recommendations for DAS cable layouts
+    authors: Strutz, D., Kiers, T., Schmelzbach, C., Maurer, H., and Curtis, A.
+    year: 2024
+    event: Edinburgh Imaging Project Partners Meeting
+    about: | 
+      <div class="google-slides-container"> <iframe src="https://docs.google.com/presentation/d/1Gqrfy7wbVq8bcUQJPHkBTaCqal9pOfcZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </div>
+
+  - title: |
+      Experimental Design for Seismic Mass Movement Monitoring
+    authors: Strutz, D., Kiers, T., Schmelzbach, C., Maurer, H., and Curtis, A.
+    year: 2024
+    event: EGU General Assembly 2024
+    slides: https://docs.google.com/presentation/d/1fdQ3LmECp9v8P39c8dtLDmMYC9_B6SXS/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
+    about: <div class="google-slides-container"> <iframe src="https://docs.google.com/presentation/d/1EkS5EVMmeb1122GYtKTof740Fmk3bfeZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </div>
+    abstract:
+      Mass movements are a significant natural hazard and are expected to increase in frequency as global temperatures rise and extreme weather events become more common. The close observation of mass movements can be essential to minimise their adverse effects on society. The efficient use of the available surveying equipment and resources is important when monitoring mass movements. This is because they are often located in inaccessible terrain, and observing them over months or years can be expensive.
+      A deployment pattern and number of sensors (henceforth, the experimental design) can often be optimised to substantially decrease the uncertainty of scientific results that can be inferred from the observed data. We have developed a novel method to optimise the design of seismic node layouts and fibre-optic based Distributed Acoustic Sensor (DAS) cable pathways for monitoring seismic events. We use it to design surveys to focus on slope instability-induced seismicity.
+      Our general Bayesian experimental design framework can take into account prior information on event locations, subsurface seismic velocity models, the nonlinearity of the physics governing seismic traveltimes, different models of attenuation, and the directional sensitivity of different sensor types (e.g. the inline sensitivity of fibre-optic cables). The introduction of a likelihood that a travel-time measurement will be made at a given station for a given seismic event allows us to account for the effect of attenuation on the observed data, and the angular dependence of one-component measurements such as DAS.
+      We show that we can efficiently design seismic node installations, give quantitative recommendations for DAS cable layouts, and show the feasibility of optimising hybrid designs combining both measurement types. We benchmark the experimental design algorithms using an effectively exhaustive data set collected at the Cuolm da Vi slope instability (Swiss Alps, near Sedrun, in Central Switzerland). The data set includes recordings from over 1000 seismic nodes, in a hexagonal grid with roughly 28m receiver spacing over the slope’s surface, of which each recorded data from over 100 dynamite shots spread across the slope. This extremely dense deployment provides the unique opportunity to choose nearly arbitrary designs (i.e. subsets of the nodes) and then test those designs by using them to locate the explosions for which we know the location. By averaging the performance of the probabilistic source location inversions over all dynamite shots, the performance of optimised, heuristic and random experimental designs can be compared.
+      The same design methods can be applied to seismic source localisation in many different contexts, such as locating microseismic events, and other scenarios, such as infrasound source location.
 
   - title: |
       Variational Bayesian Experimental Design for Geophysical Application
@@ -27,8 +48,7 @@ presentations:
     event: EGU General Assembly 2023
     slides: https://docs.google.com/presentation/d/1fdQ3LmECp9v8P39c8dtLDmMYC9_B6SXS/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
     about: | 
-      <div class="google-slides-container"> <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTODdnLBhC_wZE7-VCCZFQnaQJaU-GhqddIwXRoY1skN-yksmkyDqPM8GA-8LduCw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </div>
-      
+      <div class="google-slides-container"> <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTODdnLBhC_wZE7-VCCZFQnaQJaU-GhqddIwXRoY1skN-yksmkyDqPM8GA-8LduCw/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> </div> 
     abstract: |
       The design of geophysical surveys or experiments (henceforth, the experimental design) significantly influences the uncertainty in scientific results that can be inferred from recorded data. Typical aspects of experimental designs that can be varied are locations of sensors, sensor types, and the modelling or data processing methods to be applied to recorded data. To tighten constraints on the solution to any inverse or inference problem, and thus to rule out as many false possibilities as possible, the design should be optimised such that it is practically achievable within cost and logistical constraints, and such that it maximises expected post-experimental information about the solution. 
       Bayesian experimental design refers to a class of methods that use uncertainty estimation methods to quantify the expected gain in information about target parameters provided by an experiment, and to optimise the design of the experiment to maximise that gain. Information gain quantifies the decrease in uncertainty caused by observing data. Expected information gain is an estimate of the gain in information that will be offered by any particular design post-experiment. Bayesian experimental design methods vary the design so as to maximise the expected information gain, subject to practical constraints. 
