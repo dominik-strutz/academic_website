@@ -2,9 +2,21 @@ thumbnail: images/thumbnail/presentations.png
 
 presentations:
   - title: |
+      Experimental Design for Geophysical Applications
+    authors: Strutz, D. and Curtis, A.
+    year: 2024
+    invited: true
+    event: LMU Munich Geophysics Department Lunchtime Seminar
+    slides: https://docs.google.com/presentation/d/1-EjpyjGqjmuhr4y8VKcMe1UIgovjmZaD/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
+    about: | 
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQrrE2GDh22Xvynt15Dm3Xj_bHv9ZW7-8usjM8kTujoT1z7csZCYzqMhcUMoJdBVg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+  - title: |
       Experimental Design for Seismic Monitoring - Optimal nodal arrays and recommendations for DAS cable layouts
     authors: Strutz, D., Kiers, T., Schmelzbach, C., Maurer, H., and Curtis, A.
     year: 2024
+    invited: true
     event: Edinburgh Imaging Project Partners Meeting
     slides: https://docs.google.com/presentation/d/1Gqrfy7wbVq8bcUQJPHkBTaCqal9pOfcZ/edit?usp=sharing&ouid=105162353935342002928&rtpof=true&sd=true
     about: | 
